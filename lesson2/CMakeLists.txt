@@ -1,5 +1,5 @@
-set(app_name lesson1)
+set(app_name lesson2)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
-add_executable(${app_name} lesson1.cpp)
+add_executable(${app_name} lesson2.cpp)

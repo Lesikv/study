@@ -1,0 +1,8 @@
+/Users/o.vasina/study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/o.vasina/study/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/o.vasina/study/cmake-build-debug/lesson1/CMakeFiles/rebuild_cache.dir
+/Users/o.vasina/study/cmake-build-debug/lesson1/CMakeFiles/edit_cache.dir
+/Users/o.vasina/study/cmake-build-debug/lesson1/CMakeFiles/lesson1.dir
+/Users/o.vasina/study/cmake-build-debug/lesson2/CMakeFiles/rebuild_cache.dir
+/Users/o.vasina/study/cmake-build-debug/lesson2/CMakeFiles/edit_cache.dir
+/Users/o.vasina/study/cmake-build-debug/lesson2/CMakeFiles/lesson2.dir

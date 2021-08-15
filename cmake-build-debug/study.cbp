@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="study"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lesson1\;CMake Files\lesson2\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/o.vasina/study/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/o.vasina/study/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/o.vasina/study/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lesson1">
+				<Option output="/Users/o.vasina/study/cmake-build-debug/lesson1/lesson1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/o.vasina/study/cmake-build-debug/lesson1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson1/Makefile&quot;  VERBOSE=1 lesson1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lesson1/fast">
+				<Option output="/Users/o.vasina/study/cmake-build-debug/lesson1/lesson1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/o.vasina/study/cmake-build-debug/lesson1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson1/Makefile&quot;  VERBOSE=1 lesson1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lesson2">
+				<Option output="/Users/o.vasina/study/cmake-build-debug/lesson2/lesson2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/o.vasina/study/cmake-build-debug/lesson2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson2/Makefile&quot;  VERBOSE=1 lesson2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lesson2/fast">
+				<Option output="/Users/o.vasina/study/cmake-build-debug/lesson2/lesson2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/o.vasina/study/cmake-build-debug/lesson2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson2/Makefile&quot;  VERBOSE=1 lesson2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/o.vasina/study/cmake-build-debug/lesson2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/o.vasina/study/lesson1/lesson1.cpp">
+			<Option target="lesson1"/>
+		</Unit>
+		<Unit filename="/Users/o.vasina/study/lesson2/lesson2.cpp">
+			<Option target="lesson2"/>
+		</Unit>
+		<Unit filename="/Users/o.vasina/study/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/o.vasina/study/lesson1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson1\"/>
+		</Unit>
+		<Unit filename="/Users/o.vasina/study/lesson2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson2\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
